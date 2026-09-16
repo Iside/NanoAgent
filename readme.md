@@ -17,5 +17,8 @@ On Windows (PowerShell):
 On Windows (Command Prompt):
 >.venv\Scripts\activate.bat
 
+## install dependencies
+>pip install -r requirements.txt
+
 ## Execute
 >python .\main.py
