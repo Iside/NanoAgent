@@ -22,3 +22,10 @@ On Windows (Command Prompt):
 
 ## Execute
 >python .\main.py
+
+
+Agent = model + tools + orchestration
+
+observe → think → act → evaluate → repeat
+
+
