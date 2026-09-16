@@ -1,0 +1,8 @@
+# Exécution du modèle GGUF
+llama-cpp-python>=0.2.85
+
+# Validation et manipulation de données (recommandé pour les schémas JSON stricts)
+pydantic>=2.6.0
+
+# Outil optionnel mais recommandé pour les requêtes HTTP (alternative ou complément à curl)
+requests>=2.31.0
