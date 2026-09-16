@@ -1,5 +1,8 @@
 # Quick step
 
+Agent = model + tools + orchestration
+observe → think → act → evaluate → repeat
+
 add a gguf model for instance, Qwen3.5-0.8B-Q4_K_M.gguf in a folder named "models"
 
 https://huggingface.co/unsloth/Qwen3.5-0.8B-GGUF
@@ -24,8 +27,6 @@ On Windows (Command Prompt):
 >python .\main.py
 
 
-Agent = model + tools + orchestration
 
-observe → think → act → evaluate → repeat
 
 
