@@ -1,5 +1,6 @@
 #Quick step
 add a gguf model for instance, Qwen3.5-0.8B-Q4_K_M.gguf in a folder named "models"
+https://huggingface.co/unsloth/Qwen3.5-0.8B-GGUF
 
 ##Create virtual environnement 
 >python -m venv .venv
